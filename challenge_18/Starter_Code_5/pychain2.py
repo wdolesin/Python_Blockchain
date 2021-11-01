@@ -239,7 +239,7 @@ if st.button("Validate Chain"):
 #  Challenge.
 
 # 2. In the terminal, run the Streamlit application by
-# using `streamlit run pychain.py`.
+# using `streamlit run pychain2.py`.
 
 # 3. Enter values for the sender, receiver, and amount, and then click the "Add
 # Block" button. Do this several times to store several blocks in the ledger.
