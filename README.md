@@ -42,4 +42,9 @@ Description:
 <img width="1409" alt="test_5" src="https://user-images.githubusercontent.com/85215301/139625154-e1ebb094-a09a-4be6-989f-2a81e50d5eb9.png">
 
 
+## Chain Validation
+
+The chain has 5 blocks resulting in a TRUE validation.
+<img width="1680" alt="chain_validation" src="https://user-images.githubusercontent.com/85215301/139625347-c9ab5e2d-a277-4dac-a857-61396238ab1d.png">
+
 
