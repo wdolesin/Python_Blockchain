@@ -14,3 +14,11 @@ Description:
  * Pandas
  * Streamlit
  * VSCode
+
+## Transactions
+1. Test 1
+* Block Difficulty : 1
+* Nonce : 1
+<img width="1400" alt="test_1(2)" src="https://user-images.githubusercontent.com/85215301/139624773-9706061b-6abc-41fa-9aaa-c5248bebdbd1.png">
+
+2. 
